@@ -1,6 +1,6 @@
 # ImgAug_ClassSeg_CodeHub
 
-Welcome to ImgAug_ClassSeg_CodeHub, your go-to resource for state-of-the-art image augmentation codes tailored for classification and segmentation tasks. This repository houses a comprehensive collection of meticulously crafted scripts and utilities designed to enhance your image datasets and empower your machine learning models.
+Welcome to ImgAug_ClassSeg_CodeHub, your go-to resource for state-of-the-art image augmentation codes tailored for classification and segmentation tasks. This repository houses a comprehensive collection of meticulously crafted scripts and utilities designed to enhance your image datasets and empower your machine learning and deep learning models.
 
 ## Key Features
 
@@ -17,3 +17,9 @@ Welcome to ImgAug_ClassSeg_CodeHub, your go-to resource for state-of-the-art ima
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/Neural-Ninja/ImgAug_ClassSeg_CodeHub.git
+
+## Contributions:
+
+Contributions and feedback are highly encouraged! Whether you want to suggest improvements, report issues, or add your own augmentation techniques, we welcome your collaboration in making ImgAug_ClassSeg_CodeHub a comprehensive resource for the community.
+
+Happy Coding!
