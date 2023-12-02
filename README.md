@@ -4,7 +4,11 @@ Welcome to ImgAug_ClassSeg_CodeHub, your go-to resource for state-of-the-art ima
 
 ## Key Features
 
-1. **Versatile Augmentation Techniques:** Explore a diverse range of image augmentation techniques, carefully curated to bolster the performance of your classification and segmentation models.
+1. **Versatile Augmentation Techniques:** Explore a diverse range of image augmentation techniques, carefully curated to bolster the performance of your classification and segmentation models. Techniques include:
+   - **Image Rotation:** Rotate images at various angles to improve model generalization.
+   - **Image Brightness Adjustment:** Adjust the brightness of images to simulate different lighting conditions.
+   - **Image Flip:** Flip images horizontally or vertically to increase dataset diversity.
+   - **Color Jittering:** Introduce controlled variations in image color for improved robustness.
 
 2. **Codebase for Classification and Segmentation:** Organized and annotated codebase specifically tailored for both image classification and segmentation tasks, ensuring flexibility and ease of integration into your projects.
 
