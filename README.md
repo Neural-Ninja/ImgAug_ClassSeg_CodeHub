@@ -22,6 +22,15 @@ Welcome to ImgAug_ClassSeg_CodeHub, your go-to resource for state-of-the-art ima
    ```bash
    git clone https://github.com/Neural-Ninja/ImgAug_ClassSeg_CodeHub.git
 
+2. **Image Augmentation**
+   Inside the scripts folder use Image Augmentation.ipynb file.
+
+3. **Segmentation Augmentation**
+   Inside the scripts folder use Segmentation File Augmentation.ipynb file.
+
+4. **Semantic Augmentation**
+   Inside the scripts use Augmentation Semnatic Segmentation.ipynb file.
+   
 ## Contributions:
 
 Contributions and feedback are highly encouraged! Whether you want to suggest improvements, report issues, or add your own augmentation techniques, we welcome your collaboration in making ImgAug_ClassSeg_CodeHub a comprehensive resource for the community.
